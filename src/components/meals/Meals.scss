@@ -1,0 +1,14 @@
+.meals-container {
+  display: flex;
+  flex-direction: column;
+  row-gap: 2rem;
+
+  h1 {
+    color: black;
+    text-align: left;
+    padding: 1rem;
+    font-family: 'Rubik', sans-serif;
+    font-weight: 400;
+    font-size: 2rem;
+  }
+}
